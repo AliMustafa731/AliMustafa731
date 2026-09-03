@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋, I'm Ali Mustafa
 
-<!--
-**AliMustafa731/AliMustafa731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineer at UOB with a strong interest in
+scientific research, invention, and next-generation computing technologies.
 
-Here are some ideas to get you started:
+My long-term goal is to work at the intersection of materials science,
+electronics, computer engineering, and hardware architecture to explore
+and develop new computing technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on projects involving embedded systems, IoT, and machine learning.
+- 🌱 I'm currently learning more about computer architecture, materials science, and machine learning.
+- 👯 I'm looking to collaborate on interesting IoT, embedded systems, and hardware projects.
+- ⚡ Fun fact: The first computer bug was an actual moth found trapped inside a Harvard Mark II computer in 1947.
+
+### I'm interested in
+
+- 🧪 Materials science for computing
+- 🖥️ Computer & hardware architecture
+- ⚙️ Embedded systems
+- 💻 C/C++
+- 🤖 Machine learning
+- 📡 IoT
