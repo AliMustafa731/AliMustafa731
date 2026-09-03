@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ali Mustafa
 
-I'm a Computer Engineer at UOB with a strong interest in
+A Computer Engineer from UOB with a strong interest in
 scientific research, invention, and next-generation computing technologies.
 
 My long-term goal is to work at the intersection of materials science,
