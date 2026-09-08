@@ -2,11 +2,11 @@
 
 A Computer Engineer from UOB with a strong interest in
 scientific research, invention, and next-generation computing technologies.
-
 My long-term goal is to work at the intersection of materials science,
 electronics, computer engineering, and hardware architecture to explore
 and develop new computing technologies.
 
+### I'm currently
 * 🔭 Working on embedded systems, IoT, and ML projects.
 * 🌱 Learning computer architecture and materials science.
 * 👯 Open to collaborating on IoT and hardware projects.
