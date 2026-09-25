@@ -1,16 +1,11 @@
 ## Hi there 👋, I'm Ali Mustafa
 
-A Computer Engineer from UOB with a strong interest in
-scientific research, invention, and next-generation computing technologies.
-My long-term goal is to work at the intersection of materials science,
-electronics, computer engineering, and hardware architecture to explore
-and develop new computing technologies.
+A Computer Engineer with hands-on experience building C++ and Python software, embedded systems,
+computer-vision and robotics projects. I'm interested in scientific research, invention, and next-generation computing.
+My long-term goal is to bridge materials science, electronics, computer engineering,
+and hardware architecture to explore and develop new computing technologies.
 
-### I'm currently
-* 🔭 Working on embedded systems, IoT, and ML projects.
-* 🌱 Learning computer architecture and materials science.
-* 👯 Open to collaborating on IoT and hardware projects.
-* ⚡ Fun fact: The first computer bug was a real moth found in a Harvard Mark II computer.
+I'm Open to collaborating on ML, IoT and hardware projects.
 
 ### I'm interested in
 
